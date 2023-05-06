@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048333473542",
+    "firebase_url": "https://madassaignment-default-rtdb.firebaseio.com",
+    "project_id": "madassaignment",
+    "storage_bucket": "madassaignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048333473542:android:063ea334a7a10836c27087",
+        "android_client_info": {
+          "package_name": "com.example.madassaignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048333473542-m4mf9vas35274m1ora9uh9qfdcnsbt7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJBKXDZK5MVuUeYyC3YeKpfEQLw2DFag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048333473542-m4mf9vas35274m1ora9uh9qfdcnsbt7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
